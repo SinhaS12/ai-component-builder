@@ -24,3 +24,17 @@ body {
   background: #4a4a6a;
   border-radius: 4px;
 }
+.hardcoded{
+   border:"2px solid black";
+   border-color:#30363d;
+   border-radius: 6px;
+   color:#8b949e;
+   background-color:#21262d;
+   height:60px;
+   width:340px;
+   display:flex;
+   justify-content:center;
+   align-items: center;
+   margin-left: 30px;
+   margin-bottom: 10px;
+}
